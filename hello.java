@@ -4,6 +4,7 @@ public class hello
     {
         System.out.println("deghfhj");
         System.out.println("hell");
+        System.out.println("hell");
 
     }
 }
